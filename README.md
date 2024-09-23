@@ -1,9 +1,4 @@
 
-## Tools Used
-- Bootstrap
-- Bootstrap Icons
-- Google Font (DM Serif Display)
-
 ## Portfolio Sections
 Each section has been intentionally placed to highlight key areas of your overall portfolio.
 - Overview of You (Clear and Concise)
